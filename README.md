@@ -5,16 +5,19 @@
 
 - 🔭 Atualmente estou trabalhando com Front end
 - 🌱 Estudando Design UX/UI, React e JavaScript
-- 📫 Contate-me no e-mail: nielesantos3003@gmail.com
 - 😄 Pronouns: ela/dela
 
 -->
 
-<div>
-<a href= "https://github.com/Nysbk">
-<img height= "180em" src= "https://github-readme-stats/api?ursaname=Nysbk&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-<a href= "180em" src= "https://github-readme-stats/api/top-langs/?username=Nysbk&layout=compact&langs_count=16&theme=synthwave"/>
+<div align="center"> 
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+<img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Nysbk&layout=compact&langs_count=10&hide_border=true&role=owner,collaborator&theme=bear&bg_color=000000#gh-dark-mode-only" alt="Rick Star's Language stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+<img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Nysbk&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=450&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&theme=bear&bg_color=000000#gh-dark-mode-only" alt="Rick Staa's Github stats" />
+</a>
 </div>
+
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Nysbk-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
